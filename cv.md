@@ -9,22 +9,14 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
+|    |    | **education**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
+|2021| now| **CE of IUST**  |
 |----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
+|2018|2021| **ardabil sampad** |
 |----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2015|2018| **meshkin shahr sampad**  |
 |----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2009|2015      | **mohammad bager school**  |
 
 
-
-|     |    |**Education**                                                               |
-|-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |

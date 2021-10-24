@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
-
+* سید علی[http://seyedalihosseinibahri.github.io]
+* صدرا [https://sadradadkhah.github.io/]
+* مهدی  [http://mahdisoltani1382.github.io]
+* ماکان[https://makanjavadi.github.io/Makan.github.io/]
 
 
